@@ -4,7 +4,7 @@
 
 js_test will change this situation. You don't have to prepare an HTML file to test your JavaScript code. Entering JavaScript code to be tested in the Input window and then hitting the [Run ↓] button immediately give you the result of the code in the Output window. You can test simple single-line code as well as multiple-line code. You can even define one or more functions. The variable placed at the end of the code will be shown in the Output window.
 
-It is available at https://blue-ocean-creators.github.io/js_calc/.
+It is available at https://blue-ocean-creators.github.io/js_test/.
 
 ------
 
